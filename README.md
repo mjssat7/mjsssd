@@ -1,2 +1,2 @@
-# mjsssd
-deep learning
+# mjs_ssd
+caffe deep learning.
